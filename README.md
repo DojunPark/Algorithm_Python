@@ -1,2 +1,2 @@
-# Data_Structure_Python
-stack, queue, heap, graph etc.
+# Algorithm including Data Structure
+data structure, stack, queue, heap, graph etc.
